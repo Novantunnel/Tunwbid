@@ -1,5 +1,5 @@
-export const rootDomain = "novantunnel.web.id"; // Ganti dengan domain utama kalian
-export const serviceName = "Nt";
+export const rootDomain = "tunel.web.id"; // Ganti dengan domain utama kalian
+export const serviceName = "Tunwbid";
 export const urldomain = "https://"+serviceName+"."+rootDomain;// Ganti dengan nama workers kalian
 export const apiKey = ""; // Ganti dengan Global API key kalian
 export const apiEmail = "xnxx@gmail.com"; // Ganti dengan email yang kalian gunakan

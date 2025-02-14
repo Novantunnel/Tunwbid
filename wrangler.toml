@@ -1,9 +1,0 @@
-name = "Tunwbid"
-main = "_worker.js"
-compatibility_date = "2025-01-07"
-
-[unsafe.metadata.observability]
-enabled = true
-
-[observability.logs]
-enabled = true
